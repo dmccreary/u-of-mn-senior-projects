@@ -1,4 +1,4 @@
-# 2026 Sprint Senior Design Project
+# 2026 Spring Semester Senior Design Project
 
 **Project Name:** Intelligent Textbooks for Electrical Engineering
 
