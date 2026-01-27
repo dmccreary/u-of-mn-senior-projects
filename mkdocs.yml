@@ -9,6 +9,12 @@ edit_uri: 'blob/master/docs'
 nav:
   - Home: index.md
   - Intelligent Textbooks Proposal: intelligent-textbooks-proposal.md
+  - U of MN 2026 Sprint:
+    - 2026-spring/index.md
+    - 2026-spring/proposal.md
+  - Prompts:
+    - prompts/index.md
+    - prompts/agentic-pipeline.md
   - Glossary: glossary.md
   - References: references.md
   - Contact: contact.md
