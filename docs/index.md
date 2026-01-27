@@ -1,5 +1,12 @@
 # University of Minnesota EECD Senior Projects
 
+## 2026 Sprint Semester
+
+This year we will be using Claude Code Skills to generate
+an intelligent textbook.  Each student will be required to
+build a textbook for a professor at the University of Minnesota.
+See the details [here](./2026-spring/index.md).
+
 ## 2025 Spring Semester
 
 [Designing and Building Intelligent Textbooks](./intelligent-textbooks-proposal.md) - where students us generative AI to build [intelligent textbooks](./glossary.md#intelligent-textbook).
