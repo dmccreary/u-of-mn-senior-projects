@@ -54,6 +54,18 @@ A catalog of intelligent textbooks generated using the methods described in this
 
 Documentation for the AI skills (structured prompts and workflows) used to generate intelligent textbook components. Skills include learning graph generation, glossary creation, quiz generation, and MicroSim development. The site demonstrates how skills enable consistent, repeatable content generation.
 
+### MicroSim Faceted Search
+[MicroSim Search](https://dmccreary.github.io/search-microsims/search/demo.html) - there are about 830 MicroSims and we are getting about 30 new MicroSims each week.
+
+### MicroSim Similarity Map
+
+[MicroSim Similarity Map](https://dmccreary.github.io/search-microsims/sims/pca-map/main.html)
+This is a 2-dimensional layout of 800+ MicroSims where each dot is a MicroSim you can hover over.
+When you hover over the dot you can see details about the MicroSim.
+The map is created using embeddings so that MicroSims that are similar are near each other in the layout.  The color of the dot also categorizes the MicroSim by a subject.
+You can click the "Uncheck All" button on the right and then just turn on one or more subjects.
+Note that this is a semantic embedding, not a pedagogical or technical embedding.  It just compares the entire metadata.json file as a block of text.
+
 ### MicroSims for Education
 
 **URL:** https://dmccreary.github.io/microsims/
