@@ -10,8 +10,9 @@ nav:
   - Home: index.md
   - Intelligent Textbooks Proposal: intelligent-textbooks-proposal.md
   - U of MN 2026 Spring Senior Projects:
-    - 2026-spring/index.md
-    - 2026-spring/proposal.md
+    - 2026 Home: 2026-spring/index.md
+    - Original Proposal: 2026-spring/proposal.md
+    - References: 2026-spring/references.md
   - Prompts:
     - prompts/index.md
     - prompts/agentic-pipeline.md
@@ -50,6 +51,7 @@ markdown_extensions:
   - attr_list
   - pymdownx.highlight:
       linenums: true
+  - pymdownx.magiclink
 extra_css:
    - css/extra.css
 extra_javascript:

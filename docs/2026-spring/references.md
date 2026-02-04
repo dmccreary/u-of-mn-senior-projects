@@ -10,7 +10,7 @@ This chapter provides curated references for readers who want to explore intelli
 
 **Date:** September 10, 2025
 
-**URL:** https://arxiv.org/abs/2509.08950
+**URL:** [https://arxiv.org/abs/2509.08950](https://arxiv.org/abs/2509.08950)
 
 This paper examines the challenges and opportunities of deploying AI in signal processing education. The authors explore how generative AI can create personalized learning experiences, generate practice problems, and provide adaptive feedback. The paper addresses concerns about academic integrity while highlighting the potential for AI to democratize access to high-quality STEM education.
 
@@ -20,7 +20,7 @@ This paper examines the challenges and opportunities of deploying AI in signal p
 
 **Date:** November 25, 2025
 
-**URL:** https://arxiv.org/abs/2511.19864
+**URL:** [https://arxiv.org/abs/2511.19864](https://arxiv.org/abs/2511.19864)
 
 This paper introduces the MicroSim framework for creating small, focused educational simulations using generative AI. The framework emphasizes simplicity, universal embedding via iframes, and adaptive learning support. The paper presents case studies demonstrating how MicroSims can be generated from natural language descriptions and embedded in learning management systems.
 
