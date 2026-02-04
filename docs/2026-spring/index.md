@@ -27,6 +27,9 @@ designing your MicroSims.
 
 You can see sample textbooks here:
 
-[Case Studies of Intelligent Textbooks](https://dmccreary.github.io/intelligent-textbooks/case-studies/) - there are about 60 and we are getting a new textbook every week.
+### Websites
+[Case Studies of Intelligent Textbooks](https://dmccreary.github.io/intelligent-textbooks/case-studies/) - there are about 64 and we are getting a new textbook every week.
 
 [MicroSim Search](https://dmccreary.github.io/search-microsims/search/demo.html) - there are about 830 MicroSims and we are getting about 30 new MicroSims each week.
+
+A full list of references about intelligent textbooks and MicroSims is [here](./references.md)
